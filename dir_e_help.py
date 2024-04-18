@@ -1,7 +1,16 @@
 """
+Utilitários Python para auxiliar na programação.
 
-Dir ->
+Dir -> Apresenta todos os atributos/propriedades e funções/métodos
+disponíveis para determinado tipo de dado ou variável.
 
-Help ->
+dir(tipo de dado ou variável)
 
+
+
+Help -> Apresenta a documentação/como utilizar os atributos/propriedades
+e funções/métodos disponíveis paea determinado tipo de dado ou variável.
+
+help(tipo de dado/variável.propriedade)
 """
+#Teste
