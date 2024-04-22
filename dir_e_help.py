@@ -13,5 +13,4 @@ e funções/métodos disponíveis paea determinado tipo de dado ou variável.
 
 help(tipo de dado/variável.propriedade)
 """
-#Teste
-#Teste2
+print(dir('flavio'))
