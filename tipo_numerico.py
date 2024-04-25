@@ -1,4 +1,3 @@
 """
 Tipo numérico
 """
-Teste
