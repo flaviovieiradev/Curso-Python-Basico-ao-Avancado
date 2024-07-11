@@ -6,6 +6,8 @@ num1 = int(input('Digite o primeiro valor:'))
 num2 = int(input('Digite o segundo valor:'))
 
 if num1 > num2:
-    print("O primeiro número é maior que o segundo número.")
+    print(f"O primeiro número ({num1}) é maior que o segundo número ({num2}).")
+elif num1 == num2:
+    print(f"Os números {num1} e {num2} são iguais.")
 else:
-    print("O primeiro número é menor que o segundo número.")
+    print(f"O segundo número ({num2}) é maior que o primeiro número ({num1}).")
